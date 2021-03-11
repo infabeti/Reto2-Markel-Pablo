@@ -6,3 +6,9 @@ h1, h2, p, table, tr, td {
 table {
 	margin-left: 600px;
 }
+h1 {
+	 font-size: 60px;
+}
+td {
+	 font-size: 30px;
+}
