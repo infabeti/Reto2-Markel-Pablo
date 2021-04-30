@@ -1,0 +1,47 @@
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    
+}
+
+
+h2 {
+    font-size: 30px;
+    font-weight: 600;
+   
+}
+
+
+h1, h2 {
+    font-family: Montserrat;
+    color: #ffffff;
+}
+
+
+
+body {
+    max-width: 1100px;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.cuerpo{
+    margin: 0px 0px -20px 300px;    
+}
+
+
+.volver {
+  margin: 0px 0px -20px 300px;
+  width: 65px;
+  height: 65px;
+  border: 5px solid #9e0000;
+}
+
+
+.logo {
+  padding-left: 65%;
+  width: 75px;
+  margin: -100px 0px 0px 0px;
+}

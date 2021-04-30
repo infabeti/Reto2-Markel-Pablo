@@ -1,0 +1,23 @@
+{
+  "name": "reto2-iker-isaiah",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infabeti/Reto2-Iker-Isaiah.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infabeti/Reto2-Iker-Isaiah/issues"
+  },
+  "homepage": "https://github.com/infabeti/Reto2-Iker-Isaiah#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
